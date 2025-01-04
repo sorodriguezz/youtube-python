@@ -42,7 +42,7 @@ pip install yt-dlp
 ### 4. Clonar
 Clona el repositorio con
 ```
-git clone 
+git clone https://github.com/sorodriguezz/youtube-python.git
 ```
 
 ---
